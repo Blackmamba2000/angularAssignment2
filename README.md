@@ -1,4 +1,4 @@
-# Angular 2 Assignment 2App
+# Angular 2 Assignment 2 App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
 
