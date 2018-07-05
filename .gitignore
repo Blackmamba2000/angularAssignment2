@@ -51,7 +51,7 @@ ehthumbs_vista.db
 
 # Application specific files
 venv
-node_modules
+#node_modules
 .sass-cache
 
 # IDE - Netbeans Project files
